@@ -15,3 +15,6 @@ Code for a remotely controlled car made by our team for the event "Hands on robo
 7) Motor driver
 8) Jumper cables (all 3 types)
 9) Battery and Battery cap
+
+![WhatsApp Image 2024-09-21 at 22 59 53_ceeb2b76](https://github.com/user-attachments/assets/3e04972c-24d1-4c5b-8804-4230e8a23ac7)
+
